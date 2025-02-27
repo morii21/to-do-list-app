@@ -5,7 +5,7 @@
 This is a simple To-Do List application built using React.js. It allows users to add, delete, and rearrange tasks in a list. The interface is styled using CSS for a clean and user-friendly experience.
 
 ## 🚀 Live Demo  
-Check it out here: [Live App](https://your-app.vercel.app)
+Check it out here: [Live App](https://your-app.vercel.app) (https://your-app.vercel.app)
 
 ##  Features  
 - Add, delete, and reorder tasks  
