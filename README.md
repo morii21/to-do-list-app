@@ -12,13 +12,14 @@ This is a simple To-Do List application built using React.js. It allows users to
 ⬇️ Move Tasks Down: Users can move tasks down in the list.
 🎨 Styled UI: The app is styled with CSS for a visually appealing design.
 
-<h2>Key Learnings: </h2>
+<h3>Key Learnings: </h3>
 
 - useState Hook: Managing state in React for handling tasks dynamically.
 - Destructuring Arrays: Used for swapping elements to move tasks up and down.
 - Event Handling: Handling input changes, button clicks, and task reordering.
 - Filtering Arrays: Using .filter() to remove tasks efficiently.
 - Spread Operator (...): Creating copies of the array to avoid mutating state directly.
+---
 
 Installation & Usage
 
